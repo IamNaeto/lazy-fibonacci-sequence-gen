@@ -27,7 +27,7 @@ function fibonacciGenerator(start, end) {
   return generator();
 }
 
-const start = 0;
+const start = 1;
 const end = 10;
 
 const fibGen = fibonacciGenerator(start, end);
